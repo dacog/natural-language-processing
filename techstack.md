@@ -3,21 +3,21 @@
 ## Tech Stack
 dacog/natural-language-processing is built on the following main stack:
 
-- [Python](https://www.python.org) – Languages
-- [NumPy](http://www.numpy.org/) – Data Science Tools
 - [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- [Pandoc](https://pandoc.org/) – File Conversion
+- [Python](https://www.python.org) – Languages
 - [Matplotlib](http://matplotlib.org) – Charting Libraries
-- [SciPy](http://www.scipy.org) – Data Science Tools
-- [Ubuntu](http://www.ubuntu.com/) – Operating Systems
-- [Jupyter](http://jupyter.org) – Data Science Notebooks
 - [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
+- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Pandoc](https://pandoc.org/) – File Conversion
+- [ChatterBot](https://chatterbot.readthedocs.io/en/stable/) – Chatbot Platforms & Tools
+- [Gensim](https://radimrehurek.com/gensim/) – NLP / Sentiment Analysis
 - [IPython](http://ipython.org/index.html) – Shells
+- [Jupyter](http://jupyter.org) – Data Science Notebooks
+- [NumPy](http://www.numpy.org/) – Data Science Tools
+- [SciPy](http://www.scipy.org) – Data Science Tools
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
-- [Gensim](https://radimrehurek.com/gensim/) – NLP / Sentiment Analysis
-- [ChatterBot](https://chatterbot.readthedocs.io/en/stable/) – Chatbot Platforms & Tools
-- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Ubuntu](http://www.ubuntu.com/) – Operating Systems
 
 Full tech stack [here](/techstack.md)
 
@@ -27,21 +27,21 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 dacog/natural-language-processing is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/2303/New_Project__20_.png' alt='Jinja'/> [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/2330/no-img-open-source.png' alt='Pandoc'/> [Pandoc](https://pandoc.org/) – File Conversion
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg' alt='Matplotlib'/> [Matplotlib](http://matplotlib.org) – Charting Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/3511/cof_orange_hex.jpg' alt='Ubuntu'/> [Ubuntu](http://www.ubuntu.com/) – Operating Systems
-- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
 - <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/2330/no-img-open-source.png' alt='Pandoc'/> [Pandoc](https://pandoc.org/) – File Conversion
+- <img width='25' height='25' src='https://img.stackshare.io/service/21591/default_c5073b379d6816c0720db1a1e90c1d474703ce5e.png' alt='ChatterBot'/> [ChatterBot](https://chatterbot.readthedocs.io/en/stable/) – Chatbot Platforms & Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/5563/mVtUelKO_400x400.png' alt='Gensim'/> [Gensim](https://radimrehurek.com/gensim/) – NLP / Sentiment Analysis
 - <img width='25' height='25' src='https://img.stackshare.io/service/4477/820a0bb9a44fe5a1d640993ab1e6fd84_400x400.png' alt='IPython'/> [IPython](http://ipython.org/index.html) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
+- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - <img width='25' height='25' src='https://img.stackshare.io/service/4717/FtFnqC38_400x400.png' alt='TensorFlow'/> [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/5563/mVtUelKO_400x400.png' alt='Gensim'/> [Gensim](https://radimrehurek.com/gensim/) – NLP / Sentiment Analysis
-- <img width='25' height='25' src='https://img.stackshare.io/service/21591/default_c5073b379d6816c0720db1a1e90c1d474703ce5e.png' alt='ChatterBot'/> [ChatterBot](https://chatterbot.readthedocs.io/en/stable/) – Chatbot Platforms & Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/3511/cof_orange_hex.jpg' alt='Ubuntu'/> [Ubuntu](http://www.ubuntu.com/) – Operating Systems
 
 Full tech stack [here](/techstack.md)
 
@@ -52,7 +52,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [dacog/natural-language-processing](https://github.com/dacog/natural-language-processing)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|66<br/>Tools used|01/24/24 <br/>Report generated|
+|66<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
